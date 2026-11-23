@@ -1,0 +1,10 @@
+diff a/Assets/@Client/B/B.cs b/Assets/@Client/B/B.cs	(rejected hunks)
+@@ -3,7 +3,7 @@
+ public class B : MonoBehaviour
+ {
+     // Start is called once before the first execution of Update after the MonoBehaviour is created
+-    void Start()
++    void Start2()
+     {
+         
+     }
